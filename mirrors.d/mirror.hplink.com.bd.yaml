@@ -12,4 +12,5 @@ geolocation:
   state_province: Rajshahi
   city: Natore
 asn: 138998
+private: false
 ...
