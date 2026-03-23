@@ -1,0 +1,15 @@
+---
+name: mirror.hplink.com.bd
+address:
+  http: http://mirror.hplink.com.bd/almalinux
+  https: https://mirror.hplink.com.bd/almalinux
+update_frequency: 3h
+sponsor: HPLink
+sponsor_url: http://hplink.com.bd
+email: sc.natore@gmail.com
+geolocation:
+  country: BD
+  state_province: Rajshahi
+  city: Natore
+asn: 138998
+...
